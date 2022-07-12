@@ -7,7 +7,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/moritz-franz-4bb911211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moritz-franz-4bb911211" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13664667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13664667" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dezzardhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Moritz_Franz1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dezzardhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dezzardhd" height="30" width="40" /></a>
 </p>
 
