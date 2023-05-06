@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Moritz</h1>
-<h3 align="center">Currently looking for a job in the software engineering space.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dezzardhd&label=Profile%20views&color=0e75b6&style=flat" alt="dezzardhd" /> </p>
 
