@@ -1,5 +1,5 @@
 ## Hi, I'm Moritz,
-a software developer passionate about building modern cloud applications and contributing to a better future.
+a software developer passionate about building modern cloud applications and contributing to a better future.\
 Always seeking new challenges and ways to improve.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moritz%20Franz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moritz-franz-4bb911211/)
