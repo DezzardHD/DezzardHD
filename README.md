@@ -30,17 +30,15 @@ Always seeking new challenges and ways to improve.
 [Wintergatan](https://www.youtube.com/c/Wintergatan) – Good vibes and the never-ending process of building the Marble Machine. 🎶
 ### 🎓 Certificates
 <div class="certificate-container">
-   <div class="certificate-room" >
-      <a href="https://www.credly.com/badges/e8b42464-cf3d-4ffd-8caf-70388989b9a6/public_url" target="_blank">
-         <img src="badges/AWS Associate Developer.png" class="cert back left" alt="AWS Cert 1">
-      </a>
-      <a href="https://www.credly.com/badges/d779a86e-18cf-41c7-bb60-fa2566f5ba95/public_url" target="_blank">
-         <img src="badges/AWS Foundational Cloud Practitioner.png" class="cert back right" alt="AWS Cert 2">
-      </a>
-      <a href="https://www.credly.com/badges/df705e64-e592-4aa9-be4f-e369c62ee70f/public_url" target="_blank">
-         <img src="badges/AWS Serverless Badge.png" class="cert front" alt="AWS Cert 3">
-      </a>
-   </div>
+   <a href="https://www.credly.com/badges/e8b42464-cf3d-4ffd-8caf-70388989b9a6/public_url" target="_blank">
+      <img src="badges/AWS Associate Developer.png" class="cert" alt="AWS Cert 1">
+   </a>
+   <a href="https://www.credly.com/badges/d779a86e-18cf-41c7-bb60-fa2566f5ba95/public_url" target="_blank">
+      <img src="badges/AWS Foundational Cloud Practitioner.png" class="cert" alt="AWS Cert 2">
+   </a>
+   <a href="https://www.credly.com/badges/df705e64-e592-4aa9-be4f-e369c62ee70f/public_url" target="_blank">
+      <img src="badges/AWS Serverless Badge.png" class="cert" alt="AWS Cert 3">
+   </a>
 </div>
 
 <style>
@@ -48,40 +46,14 @@ Always seeking new challenges and ways to improve.
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 130px;
-   }
-   .certificate-room {
-      position: relative;
-      width: 300px;
-      height: 170px;
+      gap: 15px;
    }
    .cert {
-      position: absolute;
-      width: 120px;
-      transition: transform 0.3s;
-   }
-   .back {
-      top: 20px;
-      filter: brightness(0.95);
-   }
-   .left {
-      left: 0;
-      transform: rotate(-10deg);
-   }
-   .right {
-      right: 0;
-      transform: rotate(10deg);
-   }
-   .front {
-      top: 10px;
-      left: 50%;
-      transform: translateX(-50%);
       width: 150px;
-      z-index: 2;
+      height: auto;
    }
-   a {
-      display: inline-block;
-   }
+</style>
+
 </style>
 ### 📊 Statistics
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
