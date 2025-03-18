@@ -1,19 +1,96 @@
-<h1 align="center">Hi 👋, I'm Moritz</h1>
+## Hi, I'm Moritz,
+a software developer passionate about building modern cloud applications and contributing to a better future.
+Always seeking new challenges and ways to improve.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dezzardhd&label=Profile%20views&color=0e75b6&style=flat" alt="dezzardhd" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moritz%20Franz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moritz-franz-4bb911211/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/moritz-franz-4bb911211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moritz-franz-4bb911211" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13664667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13664667" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dezzardhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dezzardhd" height="30" width="40" /></a>
-</p>
+### About Me
+#### 🚀 Tech & Learning
+✅ Expertise: Backend Development, Robotics and Deep Learning
+🔥 Currently Learning: Rust for professional use 🦀
+#### 🌍 Beyond Code
+🏊‍♂️ Hobbies: Swimming, bikepacking, and making new friends in Berlin
+#### 🎯 How I Work
+🤝 Team Player – Collaboration first
+🚀 Proactive – Always pushing forward
+🗣️ Strong Communicator – Clear, direct, and open
+⚡ Fast Learner – New skills? Bring it on!
+🔍 Detail-Oriented – Precision matters
+📅 Self-Organized – Minimal guidance needed
+### 🔧 Tools and Resources I Like
+#### Tools
+[Obsidian](https://obsidian.md/) – My go-to for note-taking and organizing thoughts. It keeps everything structured and easy to access.
+[Anki](https://apps.ankiweb.net/) – Essential for spaced repetition and retaining new information efficiently.
+#### Youtube Channels
+[3Blue1Brown](https://www.youtube.com/c/3blue1brown) – Visual and intuitive explanations of math concepts.
+[Computerphile](https://www.youtube.com/user/Computerphile) – Great explanations of computer science topics.
+[No Boilerplate](https://www.youtube.com/c/NoBoilerplate) – Fast technical videos.
+[NeetCode](https://www.youtube.com/c/NeetCode) – Excellent for DSA practice.
+[Veritasium](https://www.youtube.com/@veritasium) – Entertaining and educational science content.
+[Wintergatan](https://www.youtube.com/c/Wintergatan) – Good vibes and the never-ending process of building the Marble Machine. 🎶
+### 🎓 Certificates
+<div class="certificate-container">
+   <div class="certificate-room" >
+      <a href="https://www.credly.com/badges/e8b42464-cf3d-4ffd-8caf-70388989b9a6/public_url" target="_blank">
+         <img src="badges/AWS Associate Developer.png" class="cert back left" alt="AWS Cert 1">
+      </a>
+      <a href="https://www.credly.com/badges/d779a86e-18cf-41c7-bb60-fa2566f5ba95/public_url" target="_blank">
+         <img src="badges/AWS Foundational Cloud Practitioner.png" class="cert back right" alt="AWS Cert 2">
+      </a>
+      <a href="https://www.credly.com/badges/df705e64-e592-4aa9-be4f-e369c62ee70f/public_url" target="_blank">
+         <img src="badges/AWS Serverless Badge.png" class="cert front" alt="AWS Cert 3">
+      </a>
+   </div>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dezzardhd&show_icons=true&locale=en&layout=compact" alt="dezzardhd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dezzardhd&show_icons=true&locale=en" alt="dezzardhd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dezzardhd&" alt="dezzardhd" /></p>
+<style>
+   .certificate-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 130px;
+   }
+   .certificate-room {
+      position: relative;
+      width: 300px;
+      height: 170px;
+   }
+   .cert {
+      position: absolute;
+      width: 120px;
+      transition: transform 0.3s;
+   }
+   .back {
+      top: 20px;
+      filter: brightness(0.95);
+   }
+   .left {
+      left: 0;
+      transform: rotate(-10deg);
+   }
+   .right {
+      right: 0;
+      transform: rotate(10deg);
+   }
+   .front {
+      top: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 150px;
+      z-index: 2;
+   }
+   a {
+      display: inline-block;
+   }
+</style>
+### 📊 Statistics
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; max-width: 700px; width: 100%; gap:10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DezzardHD&layout=compact&theme=radical" 
+           style="width: 340px; height: 150px; object-fit: cover;"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DezzardHD&theme=radical" 
+           style="width: 340px; height: 150px; object-fit: cover;"/>
+   </div>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DezzardHD&theme=react" 
+        style="width: 100%; max-width: 700px; min-width: 300px; margin-top: 10px;"/>
+</div>
