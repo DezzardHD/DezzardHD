@@ -16,7 +16,7 @@ Always seeking new challenges and ways to improve.
 🗣️ Strong Communicator – Clear, direct, and open\
 ⚡ Fast Learner – New skills? Bring it on!\
 🔍 Detail-Oriented – Precision matters\
-📅 Self-Organized – Minimal guidance needed\
+📅 Self-Organized – Minimal guidance needed
 ### 🔧 Tools and Resources I Like
 #### Tools
 [Obsidian](https://obsidian.md/) – My go-to for note-taking and organizing thoughts. It keeps everything structured and easy to access.\
